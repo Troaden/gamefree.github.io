@@ -1,12 +1,9 @@
 ## Welcome to the shit show that is my coding
 
-You can use the [editor on GitHub](https://github.com/Troaden/gamefree.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+IIIM JUUST A SMOOL TIIEM BOIII LIIIIIVIN IN A SMOOOL TIIIME MEME
 ### Top Kek
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TOP KEK
 
 ```markdown
 Syntax highlighted code block
